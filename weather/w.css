@@ -1,0 +1,35 @@
+html {
+    background: url(https://www.pixelstalk.net/wp-content/uploads/2016/07/Download-Weather-Wallpaper-Free.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+body {
+    background: none;
+}
+
+.container {
+    text-align: center;
+    margin-top: 100px;
+    width: 398px;
+}
+
+input {
+    margin: 20px 0;
+}
+
+#weather {
+    margin-top: 15px;
+}
+
+#footer {
+    background-color: grey;
+    color: white;
+    height: 150px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
